@@ -1,0 +1,8 @@
+  3/4/2022 2:54:25 AM: Starting composition “Comp 2”.
+
+  Output To: F:\Java\PROJECT\jobjob-java\jobjobjava\src\main\webapp\media\webmPhotos\dojo\dojo_[#####].png      Render stopped by user.    3/4/2022 2:54:27 AM: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 3/4/2022 at 2:54:27 AM
+

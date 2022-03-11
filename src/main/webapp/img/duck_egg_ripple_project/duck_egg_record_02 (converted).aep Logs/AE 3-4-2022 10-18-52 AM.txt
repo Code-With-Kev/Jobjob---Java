@@ -1,0 +1,8 @@
+  3/4/2022 10:18:52 AM: Starting composition “Comp 2”.
+
+  Output To: F:\Java\PROJECT\jobjob-java\jobjobjava\src\main\webapp\media\webmPhotos\challenge\challenge_[#####].png    3/4/2022 10:44:12 AM: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 25 Min, 20 Sec
+Log closed on 3/4/2022 at 10:44:12 AM
+

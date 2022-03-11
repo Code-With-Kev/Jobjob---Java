@@ -1,0 +1,8 @@
+  3/3/2022 11:00:44 PM: Starting composition “Duck Egg Main”.
+
+  Output To: F:\Java\PROJECT\jobjob-java\jobjobjava\src\main\webapp\media\webmPhotos\duck\duck_[#####].png    3/3/2022 11:01:31 PM: Finished composition “Duck Egg Main”.
+
+
+  Total Time Elapsed: 47 Seconds
+Log closed on 3/3/2022 at 11:01:32 PM
+

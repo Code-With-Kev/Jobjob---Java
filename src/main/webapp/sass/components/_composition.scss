@@ -1,0 +1,46 @@
+.composition {
+    position: relative;
+
+    &--margin {
+        margin-top: 8rem;
+        margin-left: 3rem;
+    }
+
+    &__photo {
+        width: 55%;
+        box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, .4); //<-- change to variable later
+        border-radius: 2px;
+        position: absolute;
+        transition: all .2s;
+        transform: scale(1);
+        outline-offset: 2rem;
+        z-index:1;
+
+        &--p1 {
+            left: 0;
+            top: -2rem;
+        }
+
+        &--p2 {
+            right: 0;
+            top: 2rem;
+        }
+
+        &--p3 {
+            left: 20%;
+            top: 10rem;
+        }
+
+        &:hover{
+            outline: 1.5rem solid $color-primary;
+            transform: scale(1.05) translateY(-2rem);
+            box-shadow: 0 2.5rem 4rem rgba(0, 0, 0, .5); //<-- increase box shadow size/make darker for illusion that its getting bigger
+            z-index: 2;
+        }
+    }
+
+    //composition:hover composotion__photo:not(:hover) = when you make any of the compositions hover, select athe ones that are not hovered
+    &:hover &__photo:not(:hover){
+        transform: scale(.95);
+    }
+}

@@ -1,0 +1,8 @@
+  3/4/2022 4:11:56 AM: Starting composition “Comp 2”.
+
+  Output To: F:\Java\PROJECT\jobjob-java\jobjobjava\src\main\webapp\media\webmPhotos\heart\heart_[#####].png    3/4/2022 4:12:49 AM: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 53 Seconds
+Log closed on 3/4/2022 at 4:12:49 AM
+

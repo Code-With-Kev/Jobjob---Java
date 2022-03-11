@@ -1,0 +1,147 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.7;
+    color: $color-grey-dark;
+    padding: 3rem;
+}
+
+.heading-primary{
+    color: $color-white;
+    text-transform: uppercase;
+
+    &--main {
+        //display: block;
+        //font-size: 6rem;
+        //font-weight: 400;
+        //letter-spacing: 3.5rem;
+        animation: moveInLeft 1s ease-out;
+        width: 70rem;
+        filter: brightness(1.1);
+    }
+    
+    &--sub {
+        display: block;
+        font-size: 2rem;
+        font-weight: 700;
+        animation: moveInRight 1s ease-out;
+        text-transform: none;
+
+        &__home{
+            letter-spacing: 1.75rem;
+            margin-bottom: 6rem;
+        }
+
+        &__dashboard{
+            letter-spacing: .5rem;
+            margin-bottom: 3rem;
+
+        }
+    }
+
+    &--dashboard {
+        font-size: 8rem;
+        color: $color-primary;
+        margin: 0 auto;
+    }
+
+}
+
+.heading-secondary {
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    transition: all .2s;
+
+                                           //**********TEXT OVERLAY EFFECT*********\\
+    background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark); // set background to gradient
+    display: inline-block; // cut the background to where the text ends
+    -webkit-background-clip: text; //cuts it to the shape of the text
+    color: transparent; //makes text disappear so that you can see behind it
+
+
+    &:hover {
+        transform: skewY(2deg) skewX(15deg) scale(1.1);
+        text-shadow: .5rem 1rem 2rem rgba($color-black, .2)
+    }
+
+    
+    &--form {
+        font-size: 5rem;
+    }
+
+}
+
+.heading-secondary--gold {
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    transition: all .2s;
+
+                                           //**********TEXT OVERLAY EFFECT*********\\
+                                           background-image: linear-gradient(to right, $color-secondary-light, $color-secondary-dark); // set background to gradient
+    display: inline-block; // cut the background to where the text ends
+    -webkit-background-clip: text; //cuts it to the shape of the text
+    color: transparent; //makes text disappear so that you can see behind it
+
+
+    &:hover {
+        transform: skewY(2deg) skewX(15deg) scale(1.1);
+        text-shadow: .5rem 1rem 2rem rgba($color-black, .2)
+    }
+
+}
+
+.heading-tertiary {
+    font-size: $font-size-medium;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:rgba($color-primary-dark, .8)
+}
+
+//fix
+.heading-tertiary-blue {
+    font-size: 5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:rgba($color-tertiary-dark, .8);
+    margin-top: -3rem;
+}
+
+.paragraph{
+    font-size: $default-font-size;
+    line-height: 3rem;
+
+    &:not(:last-child){
+        margin-bottom: 3rem;
+    }
+
+}
+
+//fix
+.paragraph--padded{
+    font-size: $default-font-size;
+    line-height: 3rem;
+    padding: 0 4rem;
+    margin-bottom: 8rem;
+
+}
+
+.bold-text{
+    font-style: italic;
+    font-weight: bold;
+    color: $color-black;
+
+    &--extra{
+        color: $color-primary;
+        font-size: 2.5rem;
+        filter: drop-shadow(.2rem .2rem .2rem $color-primary-dark);
+    }
+}
+
+.center {
+    text-align: center;
+}
+

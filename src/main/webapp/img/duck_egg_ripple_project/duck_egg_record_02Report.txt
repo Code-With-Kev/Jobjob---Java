@@ -1,0 +1,41 @@
+Report created: 
+	15/03/2019	1:41:08 PM
+
+Project name: duck_egg_record_02.aep
+
+Source files collected to: 
+	E:\Dropbox\2019 Projects\BM_TUT04_RIPPLE_190314\07_DELIVERABLES\duck_egg_ripple_project
+
+Source files collected: All
+
+Collected comps:  
+	Duck Egg Main
+	duck_egg_v01
+	Bubbles
+	Yolk Fall
+	Duck Precomped
+	duck_egg_cel
+	Video Group 1
+	Anim
+	white_underwater
+	
+Number of collected files:  2
+
+Size of collected files:  1.1 MB
+
+Collected source files: 
+	E:\Dropbox\2019 Projects\BM_TUT04_RIPPLE_190314\Duck Egg\02. Working Files\duck_egg_cel.psd
+	E:\Dropbox\2019 Projects\BM_TUT04_RIPPLE_190314\Duck Egg\02. Working Files\duck_egg_v01.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Fill
+	
+Effect:  Ripple
+	
+Effect:  Simple Choker
+	
+
