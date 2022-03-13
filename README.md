@@ -31,12 +31,13 @@ This might be my favorite page on the site. By signing up, your user dashboard e
 
 I am a strong proponent for people knowing their worth. You're probably thinking, "I've just graduated and barely have any experience... HOW COULD I POSSIBLY KNOW MY WORTH!!!". I got you! Early in my editing career, I accepted many jobs that I now realize underpaid me. I want to try to relieve that stress for everyone else. Therefore, when a job is submitted into our system, a salary is required (employers will have an option to keep it private). If the salary you have written down is more than $3000 less than the Glassdoor statistic for the average salary of a junior developer in your state, it cannot be submitted. Users who get a job will have an option to send us their salary while working in order to be sure that they are being paid adequately. So if a job is on our site, rest assured that you will be getting your money's worth! 
  
- ## Navigation
+ ## Pure SCSS
 
 https://user-images.githubusercontent.com/96272858/158079338-472cf6f2-d959-4151-b7c4-3df9d6b92981.mp4
 
-
+No bootstrap, no premade components, everything is either made in Adobe Suite or from SCSS! So I have full control over everything on the front end. 
+  
  ## QUACK QUACK!?
 https://user-images.githubusercontent.com/96272858/158079415-8a8deb62-5952-4fbd-9c87-08b73df98047.mp4
-
+Here is the special section of the site where we tell users what's coming up! Next up will be an Algo Challenge page where recruiters get to challenge candidates to algos that their company specifically wants their employers to know. Students can build up a track record with companies to prove that they are interested whenever you start hiring again. 
 
