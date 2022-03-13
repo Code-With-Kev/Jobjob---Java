@@ -38,6 +38,8 @@ https://user-images.githubusercontent.com/96272858/158079338-472cf6f2-d959-4151-
 No bootstrap, no premade components, everything is either made in Adobe Suite or from SCSS! So I have full control over everything on the front end. 
   
  ## QUACK QUACK!?
+  
 https://user-images.githubusercontent.com/96272858/158079415-8a8deb62-5952-4fbd-9c87-08b73df98047.mp4
+  
 Here is the special section of the site where we tell users what's coming up! Next up will be an Algo Challenge page where recruiters get to challenge candidates to algos that their company specifically wants their employers to know. Students can build up a track record with companies to prove that they are interested whenever you start hiring again. 
 
