@@ -40,7 +40,14 @@ This might be my favorite page on the site. By signing up, your user dashboard e
  ## Job Submission
  https://user-images.githubusercontent.com/96272858/158079044-e356d040-5657-4db9-81c6-592d9e7f53fb.mp4
 
-I am a strong proponent for people knowing their worth. You're probably thinking, "I've just graduated and barely have any experience... HOW COULD I POSSIBLY KNOW MY WORTH!!!". I got you! Early in my editing career, I accepted many jobs that I now realize underpaid me. I want to try to relieve that stress for everyone else. Therefore, when a job is submitted into our system, a salary is required (employers will have an option to keep it private). If the salary you have written down is more than $3000 less than the Glassdoor statistic for the average salary of a junior developer in your state, it cannot be submitted. Users who get a job will have an option to send us their salary while working in order to be sure that they are being paid adequately. So if a job is on our site, rest assured that you will be getting your money's worth! 
+I am a strong proponent for people knowing their worth. You're probably thinking, "I've just graduated and barely have any experience... HOW COULD I POSSIBLY KNOW MY WORTH!!!". I got you! Early in my editing career, I accepted many jobs that I now realize underpaid me. I want to try to relieve that stress for everyone else. Therefore, when a job is submitted into our system, a salary is required (employers will have an option to keep it private). If the salary you have written down is more than $3000 less than the Glassdoor statistic for the average salary of a junior developer in your state, it cannot be submitted. 
+  
+<div align="center">
+  
+ <img width="451" alt="3" src="https://user-images.githubusercontent.com/96272858/158231042-2f999ba1-187a-4c82-b27c-3ba8cb4314fc.PNG">
+
+</div>
+Users who get a job will have an option to send us their salary while working in order to be sure that they are being paid adequately. So if a job is on our site, rest assured that you will be getting your money's worth! 
  
  ## Pure SCSS
 
