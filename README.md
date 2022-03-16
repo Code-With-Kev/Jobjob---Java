@@ -1,14 +1,3 @@
-<p align="center"> 
-  
-  <img src="https://user-images.githubusercontent.com/96272858/158076286-f2a7abf2-c812-408f-87ba-5aa2ff49e1b6.gif#gh-light-mode-only">
-  
-  <img src="https://user-images.githubusercontent.com/96272858/158097131-fadebb7b-76be-4efe-bab9-5f169648354e.gif#gh-dark-mode-only">
-  
- </p>
-
- 
- 
-
 # Job<job<job>>
 A full-stack Java/SpringBoot application designed to be a job board for new coding graduates. Coders will have a safe place to go to knowing that all employers on the site are already aware that they do not have experience and are still willing to give them an oppurtunity. No long resume process, no forcefully typed cover letters, just pure, untapped talent.
  
